@@ -91,7 +91,22 @@
          "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-3.jpeg?raw=true"
       }
    ],
-   "profile":{
-      "name":"typicode"
-   }
+   "categories":[
+      {
+         "id":1,
+         "name":"Пицца"
+      },
+      {
+         "id":1,
+         "name":"Комбо"
+      },
+      {
+         "id":1,
+         "name":"Десерт"
+      },
+      {
+         "id":1,
+         "name":"Напитки"
+      }
+   ]
 }
