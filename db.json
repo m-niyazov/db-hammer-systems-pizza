@@ -4,7 +4,26 @@
      "id": 1,
       "name": "Пепперони",
       "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
-      "subtitle": "99* 225+ 395^",
+      "image": "https://pizzaonline.dominos.co.in/assets/osc/ABAAA/images/products/originals/margherita.jpg",
+      "priceFrom": 395,
+      "categoryID": 1,
+      "categoryName": "Пицца",
+      "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe1.png?raw=true"
+    },
+      {
+     "id": 2,
+      "name": "Пепперони",
+      "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
+      "image": "https://pizzaonline.dominos.co.in/assets/osc/ABAAA/images/products/originals/margherita.jpg",
+      "priceFrom": 395,
+      "categoryID": 1,
+      "categoryName": "Пицца",
+      "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe1.png?raw=true"
+    },
+      {
+     "id": 3,
+      "name": "Пепперони",
+      "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
       "image": "https://pizzaonline.dominos.co.in/assets/osc/ABAAA/images/products/originals/margherita.jpg",
       "priceFrom": 395,
       "categoryID": 1,
