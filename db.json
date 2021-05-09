@@ -97,16 +97,30 @@
          "name":"Пицца"
       },
       {
-         "id":1,
+         "id":2,
          "name":"Комбо"
       },
       {
-         "id":1,
+         "id":3,
          "name":"Десерт"
       },
       {
-         "id":1,
+         "id":4,
          "name":"Напитки"
+      }
+   ],
+   "banners":[
+      {
+         "id":1,
+         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-1.jpeg?raw=true"
+      },
+      {
+         "id":2,
+         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-2.jpeg?raw=true"
+      },
+      {
+         "id":3,
+         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-3.jpeg?raw=true"
       }
    ]
 }
