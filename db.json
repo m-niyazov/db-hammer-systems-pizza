@@ -1,130 +1,128 @@
 {
-"data": [
-   {
-   "menu":[
+  "data": {
+    "menu": [
       {
-         "id":1,
-         "name":"Пепперони",
-         "description":"Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
-         "priceFrom":395,
-         "categoryID":1,
-         "categoryName":"Пицца",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe1.png?raw=true"
+        "id": 1,
+        "name": "Пепперони",
+        "description": "Пикантная пепперони, увеличенная порция моцареллы, томатный соус",
+        "priceFrom": 395,
+        "categoryID": 1,
+        "categoryName": "Пицца",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe1.png?raw=true"
       },
       {
-         "id":2,
-         "name":"Маргарита",
-         "description":"Увеличенная порция моцареллы, томаты, итальянские травы, томатный соус",
-         "priceFrom":345,
-         "categoryID":1,
-         "categoryName":"Пицца",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe2.png?raw=true"
+        "id": 2,
+        "name": "Маргарита",
+        "description": "Увеличенная порция моцареллы, томаты, итальянские травы, томатный соус",
+        "priceFrom": 345,
+        "categoryID": 1,
+        "categoryName": "Пицца",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe2.png?raw=true"
       },
       {
-         "id":3,
-         "name":"Ветчина и грибы",
-         "description":"Ветчина, шампиньоны, увеличенная порция моцареллы, томатный соус",
-         "priceFrom":315,
-         "categoryID":1,
-         "categoryName":"Пицца",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe3.png?raw=true"
+        "id": 3,
+        "name": "Ветчина и грибы",
+        "description": "Ветчина, шампиньоны, увеличенная порция моцареллы, томатный соус",
+        "priceFrom": 315,
+        "categoryID": 1,
+        "categoryName": "Пицца",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/pepe3.png?raw=true"
       },
       {
-         "id":4,
-         "name":"Комбо за 599 ₽",
-         "description":"Наш хит «Аррива!» или другая пицца 25 см, Додстер, напиток и соус.",
-         "priceFrom":599,
-         "categoryID":2,
-         "categoryName":"Комбо",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-1.jpg?raw=true"
+        "id": 4,
+        "name": "Комбо за 599 ₽",
+        "description": "Наш хит «Аррива!» или другая пицца 25 см, Додстер, напиток и соус.",
+        "priceFrom": 599,
+        "categoryID": 2,
+        "categoryName": "Комбо",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-1.jpg?raw=true"
       },
       {
-         "id":5,
-         "name":"4 Додстера",
-         "description":"4 любых Додстера на выбор: Острый, Чипотле или Классический",
-         "priceFrom":499,
-         "categoryID":2,
-         "categoryName":"Комбо",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-2.jpg?raw=true"
+        "id": 5,
+        "name": "4 Додстера",
+        "description": "4 любых Додстера на выбор: Острый, Чипотле или Классический",
+        "priceFrom": 499,
+        "categoryID": 2,
+        "categoryName": "Комбо",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-2.jpg?raw=true"
       },
       {
-         "id":6,
-         "name":"Кукис Три шоколада",
-         "description":"Большое нежное печенье с кусочками бельгийского молочного, тёмного и белого шоколада",
-         "priceFrom":89,
-         "categoryID":3,
-         "categoryName":"Десерт",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/dessert-1.jpeg?raw=true"
+        "id": 6,
+        "name": "Кукис Три шоколада",
+        "description": "Большое нежное печенье с кусочками бельгийского молочного, тёмного и белого шоколада",
+        "priceFrom": 89,
+        "categoryID": 3,
+        "categoryName": "Десерт",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/dessert-1.jpeg?raw=true"
       },
       {
-         "id":7,
-         "name":"Вишневый пирог",
-         "description":"Вишневый пирог",
-         "priceFrom":129,
-         "categoryID":3,
-         "categoryName":"Десерт",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/dessert-2.jpeg?raw=true"
+        "id": 7,
+        "name": "Вишневый пирог",
+        "description": "Вишневый пирог",
+        "priceFrom": 129,
+        "categoryID": 3,
+        "categoryName": "Десерт",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/dessert-2.jpeg?raw=true"
       },
       {
-         "id":8,
-         "name":"Fanta",
-         "description":"0,5 л",
-         "priceFrom":95,
-         "categoryID":4,
-         "categoryName":"Напитки",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-3.jpg?raw=true"
+        "id": 8,
+        "name": "Fanta",
+        "description": "0,5 л",
+        "priceFrom": 95,
+        "categoryID": 4,
+        "categoryName": "Напитки",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-3.jpg?raw=true"
       },
       {
-         "id":9,
-         "name":"Schweppes bitter lemon",
-         "description":"0,33 л",
-         "priceFrom":75,
-         "categoryID":4,
-         "categoryName":"Напитки",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-2.jpeg?raw=true"
+        "id": 9,
+        "name": "Schweppes bitter lemon",
+        "description": "0,33 л",
+        "priceFrom": 75,
+        "categoryID": 4,
+        "categoryName": "Напитки",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-2.jpeg?raw=true"
       },
       {
-         "id":10,
-         "name":"Какао с маршмеллоу",
-         "description":"Горячий какао с молоком, молочной пенкой и ванильным маршмеллоу, 0,3 л",
-         "priceFrom":115,
-         "categoryID":4,
-         "categoryName":"Напитки",
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-3.jpeg?raw=true"
+        "id": 10,
+        "name": "Какао с маршмеллоу",
+        "description": "Горячий какао с молоком, молочной пенкой и ванильным маршмеллоу, 0,3 л",
+        "priceFrom": 115,
+        "categoryID": 4,
+        "categoryName": "Напитки",
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/drink-3.jpeg?raw=true"
       }
-   ],
-   "categories":[
+    ],
+    "categories": [
       {
-         "id":1,
-         "name":"Пицца"
+        "id": 1,
+        "name": "Пицца"
       },
       {
-         "id":2,
-         "name":"Комбо"
+        "id": 2,
+        "name": "Комбо"
       },
       {
-         "id":3,
-         "name":"Десерт"
+        "id": 3,
+        "name": "Десерт"
       },
       {
-         "id":4,
-         "name":"Напитки"
+        "id": 4,
+        "name": "Напитки"
       }
-   ],
-   "banners":[
+    ],
+    "banners": [
       {
-         "id":1,
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-1.jpeg?raw=true"
+        "id": 1,
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-1.jpeg?raw=true"
       },
       {
-         "id":2,
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-2.jpeg?raw=true"
+        "id": 2,
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-2.jpeg?raw=true"
       },
       {
-         "id":3,
-         "image":"https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-3.jpeg?raw=true"
+        "id": 3,
+        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/banners/banner-3.jpeg?raw=true"
       }
-   ]
-}
-]
+    ]
+  }
 }
