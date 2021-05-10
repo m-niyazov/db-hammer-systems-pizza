@@ -35,7 +35,7 @@
         "priceFrom": 599,
         "categoryID": 2,
         "categoryName": "Комбо",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-1.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/m-niyazov/db-hammer-systems-pizza/main/food/combo-1.jpg"
       },
       {
         "id": 5,
@@ -44,7 +44,7 @@
         "priceFrom": 499,
         "categoryID": 2,
         "categoryName": "Комбо",
-        "image": "https://github.com/m-niyazov/db-hammer-systems-pizza/blob/main/food/сombo-2.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/m-niyazov/db-hammer-systems-pizza/main/food/combo-2.jpg"
       },
       {
         "id": 6,
